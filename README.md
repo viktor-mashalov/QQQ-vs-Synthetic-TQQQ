@@ -148,10 +148,7 @@ This analysis compares 5 different investment strategies over a 26.3-year period
 ## Visualizations
 ![image](https://github.com/user-attachments/assets/86eb1213-1f0a-45fe-8b3d-ac056afdcbea)
 ![image](https://github.com/user-attachments/assets/2845ac58-56af-4572-8db3-07c7f0663271)
-![image](https://github.com/user-attachments/assets/4b749628-e5b0-493b-8143-76ac53f73863)
-![image](https://github.com/user-attachments/assets/b6e32098-3247-4dbe-932d-28f58eb9851e)
-![image](https://github.com/user-attachments/assets/69b9fe4e-a336-43ae-8ead-ccc0d3785ad1)
-![image](https://github.com/user-attachments/assets/2b581ac2-0ea6-4e4d-8176-caa0b71bfdff)
+
 
 ## Conclusion
 
